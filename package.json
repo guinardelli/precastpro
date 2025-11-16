@@ -1,0 +1,17 @@
+{
+  "name": "precastpro",
+  "version": "1.0.0",
+  "description": "Aplicativo de gerenciamento de projetos de pré-fabricados",
+  "main": "dashboard.html",
+  "type": "module",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx vite",
+    "build": "npx vite build",
+    "preview": "npx vite preview"
+  },
+  "dependencies": {
+    "vite": "^5.0.0",
+    "serve": "^14.0.1"
+  }
+}
